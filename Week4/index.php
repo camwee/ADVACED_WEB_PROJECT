@@ -14,7 +14,7 @@ if(!isset($_SESSION['user_id']))
 
 <section class="hero">
 
-<h1>Welcome to Thika Academy School Management System</h1>
+<h1>Welcome to Star Academy School Management System</h1>
 
 <p>
 Manage students, attendance,

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Thika Academy School Management System</title>
+    <title>Star Academy School Management System</title>
 
     <meta charset="UTF-8">
 
@@ -17,7 +17,7 @@
 <header>
 
 <div class="logo">
-Thika Academy School Management System
+Star Academy School Management System
 </div>
 
 <nav>

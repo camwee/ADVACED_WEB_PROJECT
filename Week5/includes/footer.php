@@ -1,7 +1,7 @@
 <footer>
 
 <p>
-© 2026 Thika Academy School Management System
+© 2026 Star Academy School Management System
 </p>
 
 </footer>
